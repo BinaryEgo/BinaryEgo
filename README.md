@@ -17,7 +17,7 @@
 
 <p>
   I created a 
-  <a href="https://jermy-portfolio.herokuapp.com" target="_blank">
+  <a href="https://jermyfrancisco.com/" target="_blank">
     personal web application
   </a>
   as an extension of my resume and a showcase of my skills.
