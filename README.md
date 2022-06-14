@@ -5,10 +5,6 @@
   preparing documentation. Although my previous career involved a heavy focus on Excel, I taught 
   myself Python and SQL in order to take this passion further.
 
-  I now aspire to transfer my skills and apply my studies of Programming & Web Development
-  into a new career path. 
-  
-  🌟I am seeking employment, so please feel free to reach out to me!🌟
 </p>
 
 <hr>
